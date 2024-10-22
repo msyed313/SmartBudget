@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797704312663",
+    "project_id": "smartbudget-2b619",
+    "storage_bucket": "smartbudget-2b619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797704312663:android:f19223cb541bd012b2d012",
+        "android_client_info": {
+          "package_name": "com.smartbudget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeGobhWvDRX7XT6y4tdpXD_dvuLWZn3Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
